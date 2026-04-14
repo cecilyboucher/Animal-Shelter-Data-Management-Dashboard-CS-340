@@ -1,4 +1,4 @@
-# Animal Rescue Data Management System
+# Animal Shelter Data Management Dashboard
 
 ## 📊 Overview
 This project is a Python-based client/server application that provides a dashboard interface for managing and analyzing animal shelter data. The system allows users to filter, search, and visualize structured database records through an interactive interface.
