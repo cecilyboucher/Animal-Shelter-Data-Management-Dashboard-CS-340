@@ -40,11 +40,14 @@ Animal shelters often manage large datasets that are difficult to navigate manua
 
 ---
 
-## 👩‍💻 Author
-Cecily Boucher  
-GitHub: https://github.com/cecilyboucher
 ## 🚧 Future Improvements
 - Cloud-based database integration
 - Improved UI/UX design
 - Authentication system for multi-user access
 - Real-time data updates
+
+---
+
+## 👩‍💻 Author
+Cecily Boucher  
+GitHub: https://github.com/cecilyboucher
