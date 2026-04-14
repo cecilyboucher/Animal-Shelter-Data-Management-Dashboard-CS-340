@@ -18,8 +18,8 @@ This project was developed as part of coursework in client/server application de
 
 ## 🛠️ Technologies Used
 - Python
-- MongoDB (or database used in your version)
-- Dash / JupyterDash (if applicable)
+- MongoDB 
+- Dash 
 - HTML components for UI structure
 - Git & GitHub for version control
 
